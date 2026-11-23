@@ -1,0 +1,26 @@
+
+build/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+*.su
+*.cyclo
+
+docs/datasheets/*.pdf
+
+
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
+*.tmp
+
+# Ghi chú học tập cá nhân — không bao giờ đưa lên git
+# Quy tắc: file nào muốn giữ riêng → đặt vào private/
+private/
+CLAUDE.md
+

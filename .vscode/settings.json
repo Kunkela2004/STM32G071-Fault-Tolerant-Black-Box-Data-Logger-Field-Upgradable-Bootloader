@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.env.windows": {
+    "PATH": "C:\\toolchains\\make-4.4.1-without-guile-w32-bin\\bin;${env:PATH}"
+  }
+}
